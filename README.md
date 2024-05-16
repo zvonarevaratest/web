@@ -4,6 +4,6 @@
 
 [Чек-лист](https://docs.google.com/spreadsheets/d/1tI81Z5Gbn1f7YwnUrVt58VW0NVnlsTID1fV6MnWxDKY/edit#gid=0)
 
-[Тестовый набор в QASE](https://app.qase.io/project/G7?previewMode=side&suite=167)
+[Тестовый набор для Cart Management и Order Management в QASE](https://app.qase.io/project/G7?previewMode=side&suite=167)
 
 [Ссылка на тест-кейсы для Cart Management и Order Management](test_cases_for_cart_management_and_order_management.pdf)
