@@ -7,3 +7,9 @@
 [Тестовый набор для Cart Management и Order Management в QASE](https://app.qase.io/project/G7?previewMode=side&suite=167)
 
 [Ссылка на тест-кейсы для Cart Management и Order Management](test_cases_for_cart_management_and_order_management.pdf)
+
+[Testing RUN для Cart Management и Order Management в QASE](Web_App_Testing_run.pdf)
+
+[Отчеты о дефекте для Cart Management и Order Management](Issues_web_zr.xlsx)
+
+
