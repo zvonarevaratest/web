@@ -12,4 +12,11 @@
 
 [Отчеты о дефекте для Cart Management и Order Management](Issues_web_zr.xlsx)
 
+#Перехват и изменение трафика
+По заданию, действия со сниффером и браузером надо записать на видео.
 
+[Перехват трафика с использованием Charles Proxy: Подмена количества товаров в корзине](Cart_Item_Quantity_Override.mov)
+
+[Перехват трафика с использованием Charles Proxy: Подмена статус кода в ответе сервера](status_code.mov)
+
+[Перехват трафика с использованием Charles Proxy: перенаправление запроса с одного окружения на другое](Request_Redirection_from_One_Environment_to_Anothe.mov)
